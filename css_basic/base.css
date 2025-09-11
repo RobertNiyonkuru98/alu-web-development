@@ -152,9 +152,9 @@ header {
 header a {
   color: rgba(0, 0, 0, 0.8);
 }
-aside {
+/*aside {
   background: #fafafa;
-}
+}*/
 aside p {
   border: 1px solid #bbb;
   background: #ddd;
