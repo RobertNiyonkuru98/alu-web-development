@@ -1,0 +1,22 @@
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  display: flex;
+  flex-direction: row;
+  flex: auto;
+}
+
+main article,
+aside {
+  overflow-y: auto;
+}
+main article {
+  flex: 2;
+}
+
+main aside {
+  flex: 1;
+}
