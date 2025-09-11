@@ -1,3 +1,8 @@
+header {
+  background-color: #c12d2d;
+  color: white;
+  text-align: center;
+}
 body {
   display: flex;
   flex-direction: column;
@@ -19,4 +24,16 @@ main article {
 
 main aside {
   flex: 1;
+}
+
+footer {
+  background-color: #c12d2d;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+  height: 100px;
+}
+
+footer p {
+  margin: 5px 0;
 }
